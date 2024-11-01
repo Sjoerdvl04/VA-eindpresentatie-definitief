@@ -1,9 +1,7 @@
 streamlit>=1.26.0
-sys
 pandas
 numpy
 matplotlib
-os
 streamlit
 seaborn
 folium
