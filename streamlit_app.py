@@ -36,7 +36,7 @@ if selected == "Introductie":
 De Kaggle Titanic-opdracht is een klassieke beginnersuitdaging binnen de data science wereld. Het doel van deze competitie is om een voorspellend model te bouwen dat kan bepalen of een passagier de scheepsramp van de Titanic in 1912 zou hebben overleefd. Gebaseerd op gegevens zoals leeftijd, geslacht, ticketklasse en andere kenmerken, moeten deelnemers patronen herkennen en analyseren om de overlevingskansen van passagiers te voorspellen.
              """)
 
-    st.image(r"C:\Users\sjoer\OneDrive\Bureaublad\DS Blok1\Introduction to Data Science\Nieuwe map\Titanic_foto.jpg", use_column_width=True)
+    st.image("Titanic_foto.jpg", use_column_width=True)
 
     st.write("""
 Deze opdracht hebben wij al uitgevoerd voor case 1. Dit dashboard vergelijkt de Titanic Case van week 1/2 en een verbeterd model hiervan. Er is geprobeerd om de score van de eerste versie te verbeteren middels geavanceerde technieken in tegenstelling tot de technieken van de eerste twee weken.
