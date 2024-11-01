@@ -7,6 +7,6 @@ seaborn
 folium
 plotly
 streamlit_folium
-sklearn
+scikit-learn
 xgboost
 streamlit_option_menu
